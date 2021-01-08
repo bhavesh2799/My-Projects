@@ -61,5 +61,5 @@ URL: https://github.com/bhavesh2799/SimplyEarn
 
 URL: https://github.com/bhavesh2799/Calculator
 
-# EDA
+# Exploratory Data Analysis (Colab Notebook: Python)
 URL : https://github.com/bhavesh2799/EDA_BASED_WEBSITE
