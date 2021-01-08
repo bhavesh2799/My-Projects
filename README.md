@@ -55,3 +55,6 @@ URL: https://github.com/bhavesh2799/human-segmentation
 # Web Calculator (Web App)
 
 URL: https://github.com/bhavesh2799/Calculator
+
+# EDA
+URL : https://github.com/bhavesh2799/EDA_BASED_WEBSITE
