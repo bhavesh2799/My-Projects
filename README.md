@@ -15,6 +15,11 @@ Simple HRNET colab implementation provides with 17 human keypoints.
 
 URL: https://github.com/bhavesh2799/simpleHRNET
 
+# Simple HRNET TO Openpose (Colab Notebook: Python)
+Convert the 17 keypoint output of simple HRNET to 18 keypoint openpose json format
+
+URL: https://github.com/bhavesh2799/simpleHRNET2Openpose
+
 
 # ocrApp (Mobile Application: Plat Store Published)
 Image to Text ocrApp for all languages. Included languages are:
