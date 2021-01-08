@@ -51,3 +51,7 @@ URL: https://play.google.com/store/apps/details?id=com.health.nutrical
 Using transfer learning to implement human segmentation
 
 URL: https://github.com/bhavesh2799/human-segmentation
+
+# Web Calculator (Web App)
+
+URL: https://github.com/bhavesh2799/Calculator
