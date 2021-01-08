@@ -5,7 +5,10 @@ App and Web Development (Ionic Framework), Angular, Machine Learning, CNN
 # Languages
 Python, Java, C, C++, (html, css, bootstrap library), JavaScript, Typescript, Angular
 
-# # My-Projects
+# Certifications
+Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Specialization-Certificates
+
+# My-Projects
 
 List of all my projects (Dated: 08-01-2021)
 
