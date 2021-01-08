@@ -1,4 +1,9 @@
+# Skills
+
+App and Web Development (Ionic Framework), Angular, Machine Learning, CNN
+
 # My-Projects
+
 List of all my projects (Dated: 08-01-2021)
 
 
