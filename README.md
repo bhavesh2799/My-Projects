@@ -63,3 +63,6 @@ URL: https://github.com/bhavesh2799/Calculator
 
 # Exploratory Data Analysis (Colab Notebook: Python)
 URL : https://github.com/bhavesh2799/EDA_BASED_WEBSITE
+
+# Plant Pathology (Kaggle Competition: Python)
+URL: https://github.com/bhavesh2799/Plant-Pathology
