@@ -53,6 +53,8 @@ NutriCal: Essential Nutritional Calculator carries the nutritional information a
 
 URL: https://play.google.com/store/apps/details?id=com.health.nutrical
 
+Python notebook used in nutrical data preprocessing: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/CalCalc%20or%20NutriCal.ipynb
+
 
 # Human Segmentation (Colab Notebook: Python)
 Using transfer learning to implement human segmentation
