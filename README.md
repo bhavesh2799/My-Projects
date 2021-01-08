@@ -53,7 +53,7 @@ Using transfer learning to implement human segmentation
 URL: https://github.com/bhavesh2799/human-segmentation
 
 # Website Template (Angular, HTML5, Bootstrap)
-A beautiful website frontend developed with angular, html, css and bootstrap.
+A beautiful website ftemplate developed with angular, js, html, css and bootstrap.
 
 URL: https://github.com/bhavesh2799/SimplyEarn
 
