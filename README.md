@@ -45,3 +45,9 @@ URL: https://play.google.com/store/apps/details?id=com.technologylife.toQR
 NutriCal: Essential Nutritional Calculator carries the nutritional information accurate to 2 decimal points, and the nutritional data is obtained from the US FoodDat central Data USA, which is one of the most reliable nutritive food information sources.
 
 URL: https://play.google.com/store/apps/details?id=com.health.nutrical
+
+
+# Human Segmentation (Colab Notebook: Python)
+Using transfer learning to implement human segmentation
+
+URL: https://github.com/bhavesh2799/human-segmentation
