@@ -23,7 +23,7 @@ List of all my projects (Dated: 08-01-2021)
 # Virtual Try-On (Colab Notebook: Python)
 A virtual try-on method takes a product image and an image of a model and produces an image of the model wearing the product. Most methods essentially compute warps from the product image to the model image and combine using image generation methods. However, obtaining a realistic image is challenging because the kinematics of garments is complex and because outline, texture, and shading cues in the image reveal errors to human viewers. The garment must have appropriate drapes; texture must be warped to be consistent with the shape of a draped garment; small details (buttons, collars, lapels, pockets, etc.) must be placed appropriately on the garment, and so on. Evaluation is particularly difficult and is usually qualitative.
 
-URL: https://github.com/bhavesh2799/vitrual-try-on
+URL: https://github.com/bhavesh2799/virtual-try-on
 
 # Simple HRNET (Colab Notebook: Python)
 Simple HRNET colab implementation provides with 17 human keypoints.
