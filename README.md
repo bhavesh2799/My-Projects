@@ -17,7 +17,11 @@ Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Speci
 List of all my projects (Dated: 08-01-2021)
 
 
+# Firechat ( Mobile Application: Play Store Published)
+Firechat Chating App for private talks with your partner, family and friends.
+This application is made with intent to store minimum user information, so that they could talk at ease with no worries about privacy policy.
 
+URL: https://play.google.com/store/apps/details?id=com.chatapp.firechat
 
 
 # Virtual Try-On (Colab Notebook: Python)
