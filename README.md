@@ -24,7 +24,7 @@ This application is made with intent to store minimum user information, so that 
 URL: https://play.google.com/store/apps/details?id=com.chatapp.firechat
 
 # QRBLE (Mobile Application: Play Store Published)
-QRBLE is a QR Code Scanner with BLE sharing options to share the scanned copy to BLE Enabled Devices.
+QRBLE is a QR Code Scanner with BLE sharing options to share the scanned QR Code Output to BLE Enabled Devices.
 
 URL: https://play.google.com/store/apps/details?id=com.qrble.name
 
