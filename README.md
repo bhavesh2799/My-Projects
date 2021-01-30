@@ -20,7 +20,7 @@ List of all my projects (Dated: 08-01-2021)
 Stock Sentiments is an application which provides a detailed stock analysis, for newbies and professionals along with live financial articles from popular news websites.
 There are sections for most active and most gainer stocks with  detailed descriptions and suggestions on buying the stock based on the live market conditions.
 
-This application couldn't be completed without the help of my friend Saiyam Bhatnagar, whose expertise in Stock Market Analysis helped us to filter out every last detail in companies finantials.
+This application couldn't be completed without the help of my friend Saiyam Bhatnagar, whose expertise in Stock Market Analysis helped us to filter out every last detail in companies financials.
 
 URL: https://play.google.com/store/apps/details?id=com.stock.sentiment
 
@@ -53,7 +53,7 @@ Convert the 17 keypoint output of simple HRNET to 18 keypoint openpose json form
 URL: https://github.com/bhavesh2799/simpleHRNET2Openpose
 
 
-# ocrApp (Mobile Application: Plat Store Published)
+# ocrApp (Mobile Application: Play Store Published)
 Image to Text ocrApp for all languages. Included languages are:
 Afrikaans, Arabic, Azerbaijani, Belarusian, Bengali, Bulgarian, Catalan, Czech, Chinese, Traditional Chinese, Cherokee, Danish, German, Greek, English, English (Old), Internet Meme, Esperanto, Esperanto alternative, Math, Estonian, Basque, Finnish, French, Frankish, French (Old), Galician, Ancient Greek, Hebrew, Hindi, Croatian, Hungarian, Indonesian, Icelandic, Italian, Italian (Old), Japanese, Kannada, Korean, Latvian, Lithuanian, Malayalam, Macedonian, Maltese, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovakian, Slovenian, Spanish, Old Spanish, Albanian, Serbian (Latin), Swahili, Swedish, Tamil, Telugu, Tagalog, Thai, Turkish, Ukrainian, Vietnamese.
 The OCR Scan can simply be copied to the clipboard.
@@ -83,7 +83,7 @@ A beautiful website ftemplate developed with angular, js, html, css and bootstra
 
 URL: https://github.com/bhavesh2799/SimplyEarn
 
-# Web Calculator (Web App)
+# Web Calculator (Website)
 
 URL: https://github.com/bhavesh2799/Calculator
 
