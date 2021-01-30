@@ -16,6 +16,14 @@ Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Speci
 
 List of all my projects (Dated: 08-01-2021)
 
+# Stock Sentiment (Mobile Application: Play Store Published)
+Stock Sentiments is an application which provides a detailed stock analysis, for newbies and professionals along with live financial articles from popular news websites.
+There are sections for most active and most gainer stocks with  detailed descriptions and suggestions on buying the stock based on the live market conditions.
+
+This application couldn't be completed without the help of my friend Saiyam Bhatnagar, whose expertise in Stock Market Analysis helped us to filter out every last detail in companies finantials.
+
+URL: https://play.google.com/store/apps/details?id=com.stock.sentiment
+
 
 # Firechat ( Mobile Application: Play Store Published)
 Firechat Chating App for private talks with your partner, family and friends.
