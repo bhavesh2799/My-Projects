@@ -21,7 +21,7 @@ Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Speci
 
 # My-Projects
 
-List of all my projects (Dated: 08-01-2021)
+List of all my projects (Dated: 04-02-2021)
 
 # Stock Sentiment (Mobile Application: Play Store Published)
 Stock Sentiments is an application which provides a detailed stock analysis, for newbies and professionals along with live financial articles from popular news websites.
