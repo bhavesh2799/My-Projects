@@ -1,3 +1,9 @@
+# Contact Details
+
+tel:+917414002424
+mailto:bhaveshkotwani1999@gmail.com
+
+
 # Skills
 
 App and Web Development (Ionic Framework), Angular, Machine Learning, CNN
