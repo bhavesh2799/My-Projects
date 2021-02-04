@@ -1,8 +1,8 @@
 # Contact Details
 
-tel:+917414002424
+tel: +917414002424
 #
-mailto:bhaveshkotwani1999@gmail.com
+mail: bhaveshkotwani1999@gmail.com
 
 
 # Skills
