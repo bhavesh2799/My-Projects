@@ -25,11 +25,19 @@ List of all my projects (Dated: 04-02-2021)
 
 # Equestock (Mobile Application: Play Store Published, Web Application: Firebase Published)
 
-Wquestock is an application which provides a detailed stock analysis, for newbies and professionals along with live financial articles from popular news websites.
+Equestock is an application which provides a detailed stock analysis, for newbies and professionals along with live financial articles from popular news websites.
 There are sections for most active and most gainer stocks with  detailed descriptions and suggestions on buying the stock based on the live market conditions.
 
 This application couldn't be completed without the help of my friend Saiyam Bhatnagar, whose expertise in Stock Market Analysis helped us to filter out every last detail in companies financials.
+The average retail investor with a Robinhood account and a few thousand dollars obviously does not have access to the sophisticated FinTech machines employed by big firms and institutional investors. A retail investor is likely to never own a Bloomberg Terminal, thus being left to scour the web for sources from articles, or rumors from message boards. 
 
+Equestock levels the playing field. The point of Equestock is to act as a poor man’s Bloomberg Terminal, with just as prudent data. Through our  proprietary algorithms, web scrapers, and machine learning, Equestock is able to be an incredibly powerful sentiment analyzer. 
+
+With millions of different conversations occurring simultaneously over the globe, and many of these conversations taking place on online public forums gives Equestock the opportunity to mine this public data for better sentiment analysis. There is no way for one person to single-handedly parse through all of this data on their own, or even with a team of people. 
+
+Because of the problem of too much data, financial institutions have employed similar technical applications on Wall Street to assist in their stock trading. These financial tools are almost impossible to get access to as a normal retail investor.
+
+Equestock is a sentiment analyzer to save you time when reviewing stocks. Articles, technical analysis, and sentiment analysis are all delivered to you through the app.
 
 Android URL: https://play.google.com/store/apps/details?id=com.stock.sentiment
 
