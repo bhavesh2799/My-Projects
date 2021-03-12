@@ -1,4 +1,4 @@
-# Hey there, I am a mobile and web app developer, working in ionic framework, and I have some experience in data science, deep learning, especially in CNNs.
+# Hey there, I am a mobile and web app developer, working in ionic framework, with some experience in data science and deep learning.
 
 I am looking for smart hardworking tech enthusiasts for my new startup. If you are interested in working with me or wish to know about my startup idea or invest in the idea, please contact me via email or phone(contact details are mentioned below).
 If using mail, please mention your interest type("Job Seeker", "Invester",...) in the subject.
