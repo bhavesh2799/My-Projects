@@ -32,7 +32,18 @@ Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Speci
 
 # My-Projects
 
-List of all my projects (Dated: 04-02-2021)
+List of all my projects (Dated: 12-03-2021)
+
+
+# Expenses Application (Mobile Application: Source Code on Github, Published on Client Play store Developer Account)
+
+This application is published on the FIRMSAP developer account as Legully Expenses App, and is majorly an application to manage the user's expense documents.  This was a freelancer project, and was a great experience for me, and it involves the use of Google sheets API, the oauth 2.0 consent screen, and filtering and sorting data based on tags. 
+
+URL: https://play.google.com/store/apps/details?id=com.expenses.aarc
+
+
+
+
 
 # Equestock (Mobile Application: Play Store Published, Web Application: Firebase Published)
 
