@@ -11,7 +11,7 @@ mail: bhaveshkotwani1999@gmail.com
 
 # Skills
 
-App and Web Development (Ionic Framework), Angular, Machine Learning, CNN
+App and Web Development (Ionic Framework), Angular, Machine Learning, CNN, Web Scraping(Python), 
 #
 #
 # Languages
@@ -25,12 +25,12 @@ Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Speci
 
 # My-Projects
 
-List of all my projects (Dated: 12-03-2021)
+List of all my projects (Dated: 29-03-2021)
 
 
 # Captcha Reader + Web Scraper (colab Notebook(private), an image as proof)
 
-This project was done by me in colaboration with Ritik Alwani (a collegue from NIT Surat), which though having enough potential is left in mid progress. This project had an aim to automate the scraping for government websites with just login credentials as login, and the client could get the required outputs through the scraper. This was done to reduce the client efforts for searching through various websites for their current status, which can be sometimes a very tedius job.
+This project was done by me in colaboration with Ritik Alwani (a collegue from NIT Surat), which though having enough potential is left in mid progress. This project had an aim to automate the scraping for **indian government websites** with just login credentials, output type as input, and the client could get the required outputs through the scraper. This was done to reduce the client efforts for searching through various websites for their current status, which can be sometimes a very tedius job.
 
 
 
