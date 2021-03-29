@@ -11,7 +11,7 @@ mail: bhaveshkotwani1999@gmail.com
 
 # Skills
 
-App and Web Development (Ionic Framework), Angular, Machine Learning, CNN, Web Scraping(Python), 
+App and Web Development (Ionic Framework), Angular, Machine Learning, CNN, Web Scraping(Python)
 #
 #
 # Languages
