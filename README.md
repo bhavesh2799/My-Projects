@@ -1,10 +1,3 @@
-# Hey there, I am a mobile and web app developer, working in ionic framework, with some experience in data science and deep learning.
-
-I am looking for smart hardworking tech enthusiasts for my new startup. If you are interested in working with me or wish to know about my startup idea or invest in the idea, please contact me via email or phone(contact details are mentioned below).
-If using mail, please mention your interest type("Job Seeker", "Invester",...) in the subject.
-
-Visit: https://sites.google.com/view/stockapi/home
-
 
 
 
@@ -35,7 +28,27 @@ Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Speci
 List of all my projects (Dated: 12-03-2021)
 
 
-# Expenses Application (Mobile Application: Source Code on Github, Published on Client Play store Developer Account)
+# Captcha Reader + Web Scraper (colab Notebook(private), an image as proof)
+
+This project was done by me in colaboration with Ritik Alwani (a collegue from NIT Surat), which though having enough potential is left in mid progress. This project had an aim to automate the scraping for government websites with just login credentials as login, and the client could get the required outputs through the scraper. This was done to reduce the client efforts for searching through various websites for their current status, which can be sometimes a very tedius job.
+
+
+
+Image Output Proof: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/123.PNG
+
+Though, if anyone gets interested in this project, we have already acheived some milestones, and would love to work on a partnership.
+
+
+
+# Attendance Application (Mobile Application: Published on Client Play store Developer Account)
+
+This application is published on the FIRMSAP developer account as Legully Attendance, and is majorly an application to manage the company's attendance.  This app has three roles: superadmin, admin and employee, with two logins. The company can manage employees attendance arrival and exit conditions and record their details thereafter. The company can also upload attendance related documents and the employees can upload reimbersements if needed.
+
+URL: https://play.google.com/store/apps/details?id=com.legully.attendance
+
+
+
+# Expenses Application (Published on Client Play store Developer Account)
 
 This application is published on the FIRMSAP developer account as Legully Expenses App, and is majorly an application to manage the user's expense documents.  This was a freelancer project, and was a great experience for me, and it involves the use of Google sheets API, the oauth 2.0 consent screen, and filtering and sorting data based on tags. 
 
