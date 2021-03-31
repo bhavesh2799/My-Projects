@@ -88,7 +88,7 @@ Web Application: https://equestock.web.app https://simply-earn-164da.web.app
 Firechat Chating App for private talks with your partner, family and friends.
 This application is made with intent to store minimum user information, so that they could talk at ease with no worries about privacy policy.
 
-URL: https://play.google.com/store/apps/details?id=com.chatapp.firechat
+
 The application was left in between, so the apk is not available.
 
 # QRBLE (Mobile Application)
