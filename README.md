@@ -17,6 +17,8 @@ App and Web Development (Ionic Framework), Angular, Machine Learning, CNN, Web S
 # Languages
 Python, Java, C, C++, (html, css, bootstrap library), JavaScript, Typescript, Angular
 #
+
+
 #
 # Certifications
 Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Specialization-Certificates
@@ -49,6 +51,9 @@ This application is published on the FIRMSAP developer account as Legully Attend
 URL: https://play.google.com/store/apps/details?id=com.legully.attendance
 New URL (APK): https://drive.google.com/file/d/1NKXf_u9Mw9fffA-MLef4khnEFz2IuK6J/view?usp=sharing
 
+For source code, please contact at details mentioned on top of the page.
+
+
 
 
 # Expenses Application (Published on Client Play store Developer Account)
@@ -57,6 +62,9 @@ This application is published on the FIRMSAP developer account as Legully Expens
 
 URL: https://play.google.com/store/apps/details?id=com.expenses.aarc
 New URL (APK): https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing
+
+For source code, please contact at details mentioned on top of the page.
+
 
 
 
@@ -84,6 +92,8 @@ New Android URL: https://drive.google.com/file/d/1LGEuBZbnNjTD1GkuMFo6_dk9R7c4dz
 Web Application: https://equestock.web.app https://simply-earn-164da.web.app
 
 
+For source code, please contact at details mentioned on top of the page.
+
 # Firechat ( Mobile Application)
 Firechat Chating App for private talks with your partner, family and friends.
 This application is made with intent to store minimum user information, so that they could talk at ease with no worries about privacy policy.
@@ -97,11 +107,14 @@ QRBLE is a QR Code Scanner with BLE sharing options to share the scanned QR Code
 
 New URL(APK): https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing
 
+For source code, please contact at details mentioned on top of the page.
+
 
 # Virtual Try-On (Colab Notebook: Python)
 A virtual try-on method takes a product image and an image of a model and produces an image of the model wearing the product. Most methods essentially compute warps from the product image to the model image and combine using image generation methods. However, obtaining a realistic image is challenging because the kinematics of garments is complex and because outline, texture, and shading cues in the image reveal errors to human viewers. The garment must have appropriate drapes; texture must be warped to be consistent with the shape of a draped garment; small details (buttons, collars, lapels, pockets, etc.) must be placed appropriately on the garment, and so on. Evaluation is particularly difficult and is usually qualitative.
 
 URL: https://github.com/bhavesh2799/virtual-try-on
+
 
 # Simple HRNET (Colab Notebook: Python)
 Simple HRNET colab implementation provides with 17 human keypoints.
@@ -121,10 +134,14 @@ The OCR Scan can simply be copied to the clipboard.
 
 New URL(APK): https://drive.google.com/file/d/14-Q8nZiy9_anOndo0NIdI6O6m5SGGOIB/view?usp=sharing
 
+For source code, please contact at details mentioned on top of the page.
+
 # toQR (Mobile Application)
 toQR is a QR generating and scanning tool created to bring in all possible formats of data to be converted into QR codes.
 
 New URL(APK):https://drive.google.com/file/d/1rgHDrvgQG-WKrcy9OHQvy1Ilqd7yMgIN/view?usp=sharing
+
+For source code, please contact at details mentioned on top of the page.
 
 
 # NutriCal (Mobile Application)
@@ -133,7 +150,11 @@ NutriCal: Essential Nutritional Calculator carries the nutritional information a
 
 New URL(APK): https://drive.google.com/file/d/1p4WihI0vZLkfhyZ0OZrBrJocnJi1nV7z/view?usp=sharing
 
+
+
 Python notebook used in nutrical data preprocessing: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/CalCalc%20or%20NutriCal.ipynb
+
+For source code, please contact at details mentioned on top of the page.
 
 
 # Human Segmentation (Colab Notebook: Python)
