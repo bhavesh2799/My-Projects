@@ -124,7 +124,7 @@ New URL(APK): https://drive.google.com/file/d/14-Q8nZiy9_anOndo0NIdI6O6m5SGGOIB/
 # toQR (Mobile Application)
 toQR is a QR generating and scanning tool created to bring in all possible formats of data to be converted into QR codes.
 
-New URL(APK): https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing
+New URL(APK):https://drive.google.com/file/d/1rgHDrvgQG-WKrcy9OHQvy1Ilqd7yMgIN/view?usp=sharing
 
 
 # NutriCal (Mobile Application)
