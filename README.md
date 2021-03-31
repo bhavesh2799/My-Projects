@@ -47,6 +47,7 @@ Though, if anyone gets interested in this project, we have already acheived some
 This application is published on the FIRMSAP developer account as Legully Attendance, and is majorly an application to manage the company's attendance.  This app has three roles: superadmin, admin and employee, with two logins. The company can manage employees attendance arrival and exit conditions and record their details thereafter. The company can also upload attendance related documents and the employees can upload reimbersements if needed.
 
 URL: https://play.google.com/store/apps/details?id=com.legully.attendance
+New URL (APK): https://drive.google.com/file/d/1NKXf_u9Mw9fffA-MLef4khnEFz2IuK6J/view?usp=sharing
 
 
 
@@ -55,12 +56,13 @@ URL: https://play.google.com/store/apps/details?id=com.legully.attendance
 This application is published on the FIRMSAP developer account as Legully Expenses App, and is majorly an application to manage the user's expense documents.  This was a freelancer project, and was a great experience for me, and it involves the use of Google sheets API, the oauth 2.0 consent screen, and filtering and sorting data based on tags. 
 
 URL: https://play.google.com/store/apps/details?id=com.expenses.aarc
+New URL (APK): https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing
 
 
 
 
 
-# Equestock (Mobile Application: Play Store Published, Web Application: Firebase Published)
+# Equestock (Mobile Application, Web Application: Firebase Published)
 
 Equestock is an application which provides a detailed stock analysis, for newbies and professionals along with live financial articles from popular news websites.
 There are sections for most active and most gainer stocks with  detailed descriptions and suggestions on buying the stock based on the live market conditions.
@@ -76,21 +78,24 @@ Because of the problem of too much data, financial institutions have employed si
 
 Equestock is a sentiment analyzer to save you time when reviewing stocks. Articles, technical analysis, and sentiment analysis are all delivered to you through the app.
 
-Android URL: https://play.google.com/store/apps/details?id=com.stock.sentiment
+
+New Android URL: https://drive.google.com/file/d/1LGEuBZbnNjTD1GkuMFo6_dk9R7c4dzpP/view?usp=sharing
 
 Web Application: https://equestock.web.app https://simply-earn-164da.web.app
 
 
-# Firechat ( Mobile Application: Play Store Published)
+# Firechat ( Mobile Application)
 Firechat Chating App for private talks with your partner, family and friends.
 This application is made with intent to store minimum user information, so that they could talk at ease with no worries about privacy policy.
 
 URL: https://play.google.com/store/apps/details?id=com.chatapp.firechat
+The application was left in between, so the apk is not available.
 
-# QRBLE (Mobile Application: Play Store Published)
+# QRBLE (Mobile Application)
 QRBLE is a QR Code Scanner with BLE sharing options to share the scanned QR Code Output to BLE Enabled Devices.
 
-URL: https://play.google.com/store/apps/details?id=com.qrble.name
+
+New URL(APK): https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing
 
 
 # Virtual Try-On (Colab Notebook: Python)
@@ -109,22 +114,24 @@ Convert the 17 keypoint output of simple HRNET to 18 keypoint openpose json form
 URL: https://github.com/bhavesh2799/simpleHRNET2Openpose
 
 
-# ocrApp (Mobile Application: Play Store Published)
+# ocrApp (Mobile Application)
 Image to Text ocrApp for all languages. Included languages are:
 Afrikaans, Arabic, Azerbaijani, Belarusian, Bengali, Bulgarian, Catalan, Czech, Chinese, Traditional Chinese, Cherokee, Danish, German, Greek, English, English (Old), Internet Meme, Esperanto, Esperanto alternative, Math, Estonian, Basque, Finnish, French, Frankish, French (Old), Galician, Ancient Greek, Hebrew, Hindi, Croatian, Hungarian, Indonesian, Icelandic, Italian, Italian (Old), Japanese, Kannada, Korean, Latvian, Lithuanian, Malayalam, Macedonian, Maltese, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovakian, Slovenian, Spanish, Old Spanish, Albanian, Serbian (Latin), Swahili, Swedish, Tamil, Telugu, Tagalog, Thai, Turkish, Ukrainian, Vietnamese.
 The OCR Scan can simply be copied to the clipboard.
 
-URL: https://play.google.com/store/apps/details?id=com.technologylife.ocrapp
+New URL(APK): https://drive.google.com/file/d/14-Q8nZiy9_anOndo0NIdI6O6m5SGGOIB/view?usp=sharing
 
-# toQR (Mobile Application: Play Store Published)
+# toQR (Mobile Application)
 toQR is a QR generating and scanning tool created to bring in all possible formats of data to be converted into QR codes.
 
-URL: https://play.google.com/store/apps/details?id=com.technologylife.toQR
+New URL(APK): https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing
 
-# NutriCal (Mobile Application: Play Store Published)
+
+# NutriCal (Mobile Application)
 NutriCal: Essential Nutritional Calculator carries the nutritional information accurate to 2 decimal points, and the nutritional data is obtained from the US FoodDat central Data USA, which is one of the most reliable nutritive food information sources.
 
-URL: https://play.google.com/store/apps/details?id=com.health.nutrical
+
+New URL(APK): https://drive.google.com/file/d/1p4WihI0vZLkfhyZ0OZrBrJocnJi1nV7z/view?usp=sharing
 
 Python notebook used in nutrical data preprocessing: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/CalCalc%20or%20NutriCal.ipynb
 
