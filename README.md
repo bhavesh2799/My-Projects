@@ -27,7 +27,7 @@ Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Speci
 
 # My-Projects
 
-List of all my projects (Dated: 29-03-2021)
+List of all my projects (Dated: 01-05-2021)
 
 
 # LegalAstro: "Legal News" Application (Play store published)
