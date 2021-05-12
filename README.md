@@ -20,8 +20,9 @@ Python, Java, C, C++, (html, css, bootstrap library), JavaScript, Typescript, An
 
 
 #
-# Certifications
+# Certifications and Reviews
 Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Specialization-Certificates
+Freelacer Reviews: https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWANI/master/freelancer-reviews.PNG
 # 
 #
 
