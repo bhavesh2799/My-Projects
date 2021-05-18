@@ -17,6 +17,8 @@ App and Web Development (Ionic Framework. Django), Angular, Machine Learning, CN
 # Languages/Frameworks
 Python, Java, C, C++, (html, css, bootstrap library), JavaScript, Typescript, Angular, Django
 #
+# Platforms
+Firebase, Sendinblue, Google API Console, Android Studio, Postman, Visual Studio, Google Play Console, Sandbox
 
 
 #
@@ -32,7 +34,7 @@ Freelancer Reviews: https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWAN
 List of all my projects (Dated: 01-05-2021)
 
 
-# LegalAstro: "Legal News" Application (Play store published)
+# LegalAstro: Legal News Application (Play store published)
 
 LegalAstro is an android news application for news articles, circulars, notices, etc., for accountants, professionals, businessmen and people in Legal businesses to stay updated with the latest government updates. I was/am responsible for the development for the application, and the articles are published from the web app (also developed by me): https://legully-news-genie.web.app/ . The editors, which currently are the employees in FIRMSAP VENTURES PVT LTD, are responsible for the articles being published in the app.
 
