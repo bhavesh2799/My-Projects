@@ -47,7 +47,7 @@ This project is a short yet effective PDF parsing implementation in python. The 
 
 # Meri Samruddhi(Web App: Firebase Published)
 
-WEB APP URL: https://meri-samruddhi.web.app
+WEB APP URL: https://meri-samruddhi.web.app (The Web App has a mobile view by default, since the target audience is farmers)
 
 Challan Printing Script: https://colab.research.google.com/drive/1JyqAqygwDaEPHEQQHd5VaJ9qTBBMEgjE?usp=sharing
 
