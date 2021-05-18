@@ -38,7 +38,7 @@ LegalAstro is an android news application for news articles, circulars, notices,
 
 App Link: https://play.google.com/store/apps/details?id=com.legully.genienews
 
-# Document Parser(Google Vision API): 
+# Document Parser(Google Vision API)
  URL: https://colab.research.google.com/drive/16iOWroDj4ZXgxeh0qn1WIzoIQbXEZ8zE?usp=sharing
 
 This project is a short yet effective PDF parsing implementation in python. The end result is the text extracted from PDFs.
