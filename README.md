@@ -46,6 +46,7 @@ This project is a short yet effective PDF parsing implementation in python. The 
 # Meri Samruddhi(Web App: Firebase Published)
 
 WEB APP URL: https://meri-samruddhi.web.app
+
 Challan Printing Script: https://colab.research.google.com/drive/1JyqAqygwDaEPHEQQHd5VaJ9qTBBMEgjE?usp=sharing
 
 This project iincludes a form created in Hindi using the postal service API, and the google Translation API for the farmers located in Maharashtra to collect their field data and personal information, and deliver sample fertilizers to them. The data collected from farmers is collected in firebase server, and can be updated by admin on a google sheet. This later is connected with a challan printing script I created in Python for getting the delivery challans(receipts).
