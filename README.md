@@ -38,8 +38,20 @@ LegalAstro is an android news application for news articles, circulars, notices,
 
 App Link: https://play.google.com/store/apps/details?id=com.legully.genienews
 
+# Document Parser(Google Vision API): 
+ URL: https://colab.research.google.com/drive/16iOWroDj4ZXgxeh0qn1WIzoIQbXEZ8zE?usp=sharing
 
-# Captcha Reader + Web Scraper (colab Notebook(private), an image as proof)
+This project is a short yet effective PDF parsing implementation in python. The end result is the text extracted from PDFs.
+
+# Meri Samruddhi(Web App: Firebase Published)
+
+WEB APP URL: https://meri-samruddhi.web.app
+Challan Printing Script: https://colab.research.google.com/drive/1JyqAqygwDaEPHEQQHd5VaJ9qTBBMEgjE?usp=sharing
+
+This project iincludes a form created in Hindi using the postal service API, and the google Translation API for the farmers located in Maharashtra to collect their field data and personal information, and deliver sample fertilizers to them. The data collected from farmers is collected in firebase server, and can be updated by admin on a google sheet. This later is connected with a challan printing script I created in Python for getting the delivery challans(receipts).
+
+
+# Captcha Reader + Web Scraper (colab Notebook(private))
 
 This project was done by me in colaboration with Ritik Alwani (a collegue from NIT Surat), which though having enough potential is left in mid progress. This project had an aim to automate the scraping for **indian government websites** with just login credentials, output type as input, and the client could get the required outputs through the scraper. This was done to reduce the client efforts for searching through various websites for their current status, which can be sometimes a very tedius job.
 
@@ -49,6 +61,7 @@ Notebook(Private) :https://github.com/bhavesh2799/Scraper
 Image Output Proof: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/123.PNG
 
 Though, if anyone gets interested in this project, we have already acheived some milestones, and would love to work on a partnership.
+
 
 
 
