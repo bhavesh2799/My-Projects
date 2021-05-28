@@ -74,6 +74,7 @@ This application is published on the FIRMSAP developer account as Legully Attend
 
 URL: https://play.google.com/store/apps/details?id=com.legully.attendance
 New URL (APK): https://drive.google.com/file/d/1NKXf_u9Mw9fffA-MLef4khnEFz2IuK6J/view?usp=sharing
+Web app: https://legully-attendance.web.app/
 
 For source code, please contact at details mentioned on top of the page.
 
