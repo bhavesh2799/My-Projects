@@ -39,6 +39,8 @@ List of all my projects (Dated: 01-05-2021)
 LegalAstro is an android news application for news articles, circulars, notices, etc., for accountants, professionals, businessmen and people in Legal businesses to stay updated with the latest government updates. I was/am responsible for the development for the application, and the articles are published from the web app (also developed by me). The editors, which currently are the employees in FIRMSAP VENTURES PVT LTD, are responsible for the articles being published in the app.
 
 App Link: https://play.google.com/store/apps/details?id=com.legully.genienews
+
+
 Web App Publisher: https://legully-news-genie.web.app/
 
 # Document Parser(Google Vision API)
@@ -53,6 +55,7 @@ This project iincludes a form created in Hindi using the postal service API, and
 
 WEB APP URL: https://meri-samruddhi.web.app
 
+
 Challan Printing Script: https://colab.research.google.com/drive/1JyqAqygwDaEPHEQQHd5VaJ9qTBBMEgjE?usp=sharing
 
 
@@ -63,6 +66,7 @@ This project was done by me in colaboration with Ritik Alwani (a collegue from N
 
 
 Notebook(Private) :https://github.com/bhavesh2799/Scraper
+
 
 Image Output Proof: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/123.PNG
 
@@ -77,7 +81,9 @@ This application is published on the FIRMSAP developer account as Legully Attend
 
 URL: https://play.google.com/store/apps/details?id=com.legully.attendance
 
+
 New URL (APK): https://drive.google.com/file/d/1NKXf_u9Mw9fffA-MLef4khnEFz2IuK6J/view?usp=sharing
+
 
 Web app: https://legully-attendance.web.app/
 
@@ -90,6 +96,8 @@ Web app: https://legully-attendance.web.app/
 This application is published on the FIRMSAP developer account as Legully Expenses App, and is majorly an application to manage the user's expense documents.  This was a freelancer project, and was a great experience for me, and it involves the use of Google sheets API, the oauth 2.0 consent screen, and filtering and sorting data based on tags. 
 
 URL: https://play.google.com/store/apps/details?id=com.expenses.aarc
+
+
 New URL (APK): https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing
 
 
@@ -116,6 +124,7 @@ Equestock is a sentiment analyzer to save you time when reviewing stocks. Articl
 
 
 New Android URL: https://drive.google.com/file/d/1LGEuBZbnNjTD1GkuMFo6_dk9R7c4dzpP/view?usp=sharing
+
 
 Web Application: https://equestock.web.app https://simply-earn-164da.web.app
 
