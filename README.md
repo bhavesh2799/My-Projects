@@ -36,22 +36,25 @@ List of all my projects (Dated: 01-05-2021)
 
 # LegalAstro: Legal News Application (Play store published)
 
-LegalAstro is an android news application for news articles, circulars, notices, etc., for accountants, professionals, businessmen and people in Legal businesses to stay updated with the latest government updates. I was/am responsible for the development for the application, and the articles are published from the web app (also developed by me): https://legully-news-genie.web.app/ . The editors, which currently are the employees in FIRMSAP VENTURES PVT LTD, are responsible for the articles being published in the app.
+LegalAstro is an android news application for news articles, circulars, notices, etc., for accountants, professionals, businessmen and people in Legal businesses to stay updated with the latest government updates. I was/am responsible for the development for the application, and the articles are published from the web app (also developed by me). The editors, which currently are the employees in FIRMSAP VENTURES PVT LTD, are responsible for the articles being published in the app.
 
 App Link: https://play.google.com/store/apps/details?id=com.legully.genienews
+Web App Publisher: https://legully-news-genie.web.app/
 
 # Document Parser(Google Vision API)
- URL: https://colab.research.google.com/drive/16iOWroDj4ZXgxeh0qn1WIzoIQbXEZ8zE?usp=sharing
-
 This project is a short yet effective PDF parsing implementation in python. The end result is the text extracted from PDFs.
 
-# Meri Samruddhi(Web App: Firebase Published)
+ URL: https://colab.research.google.com/drive/16iOWroDj4ZXgxeh0qn1WIzoIQbXEZ8zE?usp=sharing
 
-WEB APP URL: https://meri-samruddhi.web.app (The Web App has a mobile view by default, since the target audience is farmers)
+
+# Meri Samruddhi(Web App: Firebase Published)
+This project iincludes a form created in Hindi using the postal service API, and the google Translation API for the farmers located in Maharashtra to collect their field data and personal information, and deliver sample fertilizers to them. The data collected from farmers is collected in firebase server, and can be updated by admin on a google sheet. This later is connected with a challan printing script I created in Python for getting the delivery challans(The Web App has a mobile view by default, since the target audience is farmers).
+
+
+WEB APP URL: https://meri-samruddhi.web.app
 
 Challan Printing Script: https://colab.research.google.com/drive/1JyqAqygwDaEPHEQQHd5VaJ9qTBBMEgjE?usp=sharing
 
-This project iincludes a form created in Hindi using the postal service API, and the google Translation API for the farmers located in Maharashtra to collect their field data and personal information, and deliver sample fertilizers to them. The data collected from farmers is collected in firebase server, and can be updated by admin on a google sheet. This later is connected with a challan printing script I created in Python for getting the delivery challans(receipts).
 
 
 # Captcha Reader + Web Scraper (colab Notebook(private))
@@ -63,7 +66,6 @@ Notebook(Private) :https://github.com/bhavesh2799/Scraper
 
 Image Output Proof: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/123.PNG
 
-Though, if anyone gets interested in this project, we have already acheived some milestones, and would love to work on a partnership.
 
 
 
@@ -72,13 +74,13 @@ Though, if anyone gets interested in this project, we have already acheived some
 
 This application is published on the FIRMSAP developer account as Legully Attendance, and is majorly an application to manage the company's attendance.  This app has three roles: superadmin, admin and employee, with two logins. The company can manage employees attendance arrival and exit conditions and record their details thereafter. The company can also upload attendance related documents and the employees can upload reimbersements if needed.
 
+
 URL: https://play.google.com/store/apps/details?id=com.legully.attendance
 
 New URL (APK): https://drive.google.com/file/d/1NKXf_u9Mw9fffA-MLef4khnEFz2IuK6J/view?usp=sharing
 
 Web app: https://legully-attendance.web.app/
 
-For source code, please contact at details mentioned on top of the page.
 
 
 
@@ -90,7 +92,6 @@ This application is published on the FIRMSAP developer account as Legully Expens
 URL: https://play.google.com/store/apps/details?id=com.expenses.aarc
 New URL (APK): https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing
 
-For source code, please contact at details mentioned on top of the page.
 
 
 
@@ -119,7 +120,6 @@ New Android URL: https://drive.google.com/file/d/1LGEuBZbnNjTD1GkuMFo6_dk9R7c4dz
 Web Application: https://equestock.web.app https://simply-earn-164da.web.app
 
 
-For source code, please contact at details mentioned on top of the page.
 
 # Firechat ( Mobile Application)
 Firechat Chating App for private talks with your partner, family and friends.
@@ -134,7 +134,6 @@ QRBLE is a QR Code Scanner with BLE sharing options to share the scanned QR Code
 
 New URL(APK): https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing
 
-For source code, please contact at details mentioned on top of the page.
 
 
 # Virtual Try-On (Colab Notebook: Python)
@@ -161,14 +160,12 @@ The OCR Scan can simply be copied to the clipboard.
 
 New URL(APK): https://drive.google.com/file/d/14-Q8nZiy9_anOndo0NIdI6O6m5SGGOIB/view?usp=sharing
 
-For source code, please contact at details mentioned on top of the page.
 
 # toQR (Mobile Application)
 toQR is a QR generating and scanning tool created to bring in all possible formats of data to be converted into QR codes.
 
 New URL(APK):https://drive.google.com/file/d/1rgHDrvgQG-WKrcy9OHQvy1Ilqd7yMgIN/view?usp=sharing
 
-For source code, please contact at details mentioned on top of the page.
 
 
 # NutriCal (Mobile Application)
@@ -181,7 +178,6 @@ New URL(APK): https://drive.google.com/file/d/1p4WihI0vZLkfhyZ0OZrBrJocnJi1nV7z/
 
 Python notebook used in nutrical data preprocessing: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/CalCalc%20or%20NutriCal.ipynb
 
-For source code, please contact at details mentioned on top of the page.
 
 
 # Human Segmentation (Colab Notebook: Python)
