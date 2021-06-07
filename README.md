@@ -97,6 +97,8 @@ This application is published on the FIRMSAP developer account as Legully Expens
 
 URL: https://play.google.com/store/apps/details?id=com.expenses.aarc
 
+Web app Url: https://legully-expense-app.web.app/login
+
 
 New URL (APK): https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing
 
