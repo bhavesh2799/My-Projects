@@ -74,7 +74,7 @@ Image Output Proof: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/1
 
 
 
-# Attendance Application (Mobile Application: Published on Client Play store Developer Account)
+# Attendance Application (Mobile Application: Published on Client Play store Developer Account, Web app published on Firebase)
 
 This application is published on the FIRMSAP developer account as Legully Attendance, and is majorly an application to manage the company's attendance.  This app has three roles: superadmin, admin and employee, with two logins. The company can manage employees attendance arrival and exit conditions and record their details thereafter. The company can also upload attendance related documents and the employees can upload reimbersements if needed.
 
@@ -91,7 +91,7 @@ Web app: https://legully-attendance.web.app/
 
 
 
-# Expenses Application (Published on Client Play store Developer Account)
+# Expenses Application (Published on Client Play store Developer Account, Published as Web App on Firebase)
 
 This application is published on the FIRMSAP developer account as Legully Expenses App, and is majorly an application to manage the user's expense documents.  This was a freelancer project, and was a great experience for me, and it involves the use of Google sheets API, the oauth 2.0 consent screen, and filtering and sorting data based on tags. 
 
