@@ -35,6 +35,19 @@ Freelancer Reviews: https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWAN
 
 List of all my projects (Dated: 01-05-2021)
 
+# Invoices Parser App (Web App published on Firebase)
+Invoices Parser is a web application I am currently working on, which uses Google Cloud Document AI Processor for Invoices Parsing, and the parsed information gets stored in Firebase Cloud, and the outputs can be exported to google sheets, which is integrated through the sheet API. The app has 3 user roles, superadmin, admin and employees.
+
+
+This application has accounting firms as their primary customers and invoices can be allotted to employees from the admin. The app has a separate superadmin panel to keep check on usage.
+
+
+The application is currently in MVP Phase, and a lot of new features are supposed to be added. The funding is under Mudit Goyal, CEO of FIRMSAP VENTURES, and the sole development is under my control.
+
+
+Web: https://invoices-parser.web.app/
+
+
 
 # LegalAstro: Legal News Application (Play store published)
 
