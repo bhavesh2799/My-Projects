@@ -8,6 +8,8 @@ tel: +917414002424
 #
 mail: bhaveshkotwani1999@gmail.com
 
+# Resume/CV
+Link: https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWANI/master/Resume.pdf
 
 # Skills
 
