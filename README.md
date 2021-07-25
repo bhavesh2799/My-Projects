@@ -71,6 +71,8 @@ This project iincludes a form created in Hindi using the postal service API, and
 WEB APP URL: https://meri-samruddhi.web.app
 
 
+
+
 Challan Printing Script: https://colab.research.google.com/drive/1JyqAqygwDaEPHEQQHd5VaJ9qTBBMEgjE?usp=sharing
 
 
@@ -146,7 +148,6 @@ New Android URL: https://drive.google.com/file/d/1LGEuBZbnNjTD1GkuMFo6_dk9R7c4dz
 Web Application: https://equestock.web.app https://simply-earn-164da.web.app
 
 
-
 # Firechat ( Mobile Application)
 Firechat Chating App for private talks with your partner, family and friends.
 This application is made with intent to store minimum user information, so that they could talk at ease with no worries about privacy policy.
@@ -167,6 +168,11 @@ A virtual try-on method takes a product image and an image of a model and produc
 
 URL: https://github.com/bhavesh2799/virtual-try-on
 
+# Sharing App (Sri Lanka Freelancer, Web App: Firebase Deployed)
+This was a file sharing project from Freelancer, which couldn't be completed due to some reasons, and only the UI is available. The application is currently published as a web app on Firebase.
+
+URL: https://sharing-f96bf.web.app/home
+GitHub Repository: https://github.com/bhavesh2799/Sharing-App--Sri-Lanka--Freelancer-
 
 # Simple HRNET (Colab Notebook: Python)
 Simple HRNET colab implementation provides with 17 human keypoints.
@@ -199,7 +205,6 @@ NutriCal: Essential Nutritional Calculator carries the nutritional information a
 
 
 New URL(APK): https://drive.google.com/file/d/1p4WihI0vZLkfhyZ0OZrBrJocnJi1nV7z/view?usp=sharing
-
 
 
 Python notebook used in nutrical data preprocessing: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/CalCalc%20or%20NutriCal.ipynb
