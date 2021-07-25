@@ -172,6 +172,7 @@ URL: https://github.com/bhavesh2799/virtual-try-on
 This was a file sharing project from Freelancer, which couldn't be completed due to some reasons, and only the UI is available. The application is currently published as a web app on Firebase.
 
 URL: https://sharing-f96bf.web.app/home
+
 GitHub Repository: https://github.com/bhavesh2799/Sharing-App--Sri-Lanka--Freelancer-
 
 # Simple HRNET (Colab Notebook: Python)
