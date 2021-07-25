@@ -161,7 +161,7 @@ QRBLE is a QR Code Scanner with BLE sharing options to share the scanned QR Code
 
 New URL(APK): https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing
 
-
+GitHub Repository: https://github.com/bhavesh2799/QRBLE
 
 # Virtual Try-On (Colab Notebook: Python)
 A virtual try-on method takes a product image and an image of a model and produces an image of the model wearing the product. Most methods essentially compute warps from the product image to the model image and combine using image generation methods. However, obtaining a realistic image is challenging because the kinematics of garments is complex and because outline, texture, and shading cues in the image reveal errors to human viewers. The garment must have appropriate drapes; texture must be warped to be consistent with the shape of a draped garment; small details (buttons, collars, lapels, pockets, etc.) must be placed appropriately on the garment, and so on. Evaluation is particularly difficult and is usually qualitative.
@@ -193,13 +193,14 @@ The OCR Scan can simply be copied to the clipboard.
 
 New URL(APK): https://drive.google.com/file/d/14-Q8nZiy9_anOndo0NIdI6O6m5SGGOIB/view?usp=sharing
 
+GitHub Repository: https://github.com/bhavesh2799/ocrAppFull
 
 # toQR (Mobile Application)
 toQR is a QR generating and scanning tool created to bring in all possible formats of data to be converted into QR codes.
 
 New URL(APK):https://drive.google.com/file/d/1rgHDrvgQG-WKrcy9OHQvy1Ilqd7yMgIN/view?usp=sharing
 
-
+GitHub Repository: https://github.com/bhavesh2799/toQR
 
 # NutriCal (Mobile Application)
 NutriCal: Essential Nutritional Calculator carries the nutritional information accurate to 2 decimal points, and the nutritional data is obtained from the US FoodDat central Data USA, which is one of the most reliable nutritive food information sources.
@@ -207,6 +208,7 @@ NutriCal: Essential Nutritional Calculator carries the nutritional information a
 
 New URL(APK): https://drive.google.com/file/d/1p4WihI0vZLkfhyZ0OZrBrJocnJi1nV7z/view?usp=sharing
 
+GitHub Repository: https://github.com/bhavesh2799/NutriCal
 
 Python notebook used in nutrical data preprocessing: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/CalCalc%20or%20NutriCal.ipynb
 
