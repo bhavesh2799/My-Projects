@@ -29,14 +29,11 @@ Firebase, Sendinblue, Google API Console, Android Studio, Postman, Visual Studio
 #
 # Certifications and Reviews
 Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Specialization-Certificates
-
 Freelancer Reviews: https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWANI/master/freelancer-reviews.PNG
 # 
 #
 
-# My-Projects
-
-List of all my projects (Dated: 01-05-2021)
+# My-Projects (List of all my projects (Dated: 01-05-2021)
 
 # Invoices Parser App (Web App published on Firebase)
 Invoices Parser is a web application I am currently working on, which uses Google Cloud Document AI Processor for Invoices Parsing, and the parsed information gets stored in Firebase Cloud, and the outputs can be exported to google sheets, which is integrated through the sheet API. The app has 3 user roles, superadmin, admin and employees.
