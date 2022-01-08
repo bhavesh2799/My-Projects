@@ -116,23 +116,15 @@ This project iincludes a form created in Hindi using the postal service API, and
 ## Captcha Reader + Web Scraper (colab Notebook(private))
 
 This project was done by me in colaboration with Ritik Alwani (a collegue from NIT Surat), which though having enough potential is left in mid progress. This project had an aim to automate the scraping for **indian government websites** with just login credentials, output type as input, and the client could get the required outputs through the scraper. This was done to reduce the client efforts for searching through various websites for their current status, which can be sometimes a very tedius job.
-
-
 [Notebook(Private)]:https://github.com/bhavesh2799/Scraper
-
-
-[Image Output Proof]: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/123.PNG
-
-
-
-
+![Image Output Proof](https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/123.PNG)
 
 ## Attendance Application (Mobile Application: Published on Client Play store Developer Account, Web app published on Firebase)
 
 This application is published on the FIRMSAP developer account as Legully Attendance, and is majorly an application to manage the company's attendance.  This app has three roles: superadmin, admin and employee, with two logins. The company can manage employees attendance arrival and exit conditions and record their details thereafter. The company can also upload attendance related documents and the employees can upload reimbersements if needed.
 
 
-[URL]: https://play.google.com/store/apps/details?id=com.legully.attendance
+[https://play.google.com/store/apps/details?id=com.legully.attendance]
 
 
 [New URL (APK)]: https://drive.google.com/file/d/1NKXf_u9Mw9fffA-MLef4khnEFz2IuK6J/view?usp=sharing
