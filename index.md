@@ -24,13 +24,14 @@ Firebase, Sendinblue, Google API Console, Android Studio, Postman, Visual Studio
 
 # Certifications and Reviews
 
-[Deep Learning Specialization](https://github.com/bhavesh2799/Deep-Learning-Specialization-Certificates)
 ![Postman Student Expert Certification](https://github.com/bhavesh2799/Postman-Student-Expert-Certification/blob/main/Postman%20-%20Postman%20Student%20Expert%20-%202022-01-04.png)
 
 
 
 ![Freelancer Reviews](https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWANI/master/freelancer-reviews.PNG)
 
+
+[Deep Learning Specialization](https://github.com/bhavesh2799/Deep-Learning-Specialization-Certificates)
 
 # My-Projects (List of all my projects (Dated: 01-05-2021)
 
@@ -179,6 +180,7 @@ The OCR Scan can simply be copied to the clipboard.
 
 ## toQR (Mobile Application)
 toQR is a QR generating and scanning tool created to bring in all possible formats of data to be converted into QR codes.
+
 [New URL(APK)](https://drive.google.com/file/d/1rgHDrvgQG-WKrcy9OHQvy1Ilqd7yMgIN/view?usp=sharing)
 
 [GitHub Repository](https://github.com/bhavesh2799/toQR)
