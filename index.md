@@ -23,9 +23,12 @@ Python, Java, C, C++, (html, css, bootstrap library), JavaScript, Typescript, An
 Firebase, Sendinblue, Google API Console, Android Studio, Postman, Visual Studio, Google Play Console, Sandbox
 
 # Certifications and Reviews
+
 [Deep Learning Specialization](https://github.com/bhavesh2799/Deep-Learning-Specialization-Certificates)
 
+
 ![Postman Student Expert Certification](https://github.com/bhavesh2799/Postman-Student-Expert-Certification/blob/main/Postman%20-%20Postman%20Student%20Expert%20-%202022-01-04.png)
+
 
 ![Freelancer Reviews](https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWANI/master/freelancer-reviews.PNG)
 
@@ -62,17 +65,17 @@ This project iincludes a form created in Hindi using the postal service API, and
 
 WEB APP URL: [https://meri-samruddhi.web.app](https://meri-samruddhi.web.app)
 
-
-
-
-[Challan Printing Script]: https://colab.research.google.com/drive/1JyqAqygwDaEPHEQQHd5VaJ9qTBBMEgjE?usp=sharing
+[Challan Printing Script](https://colab.research.google.com/drive/1JyqAqygwDaEPHEQQHd5VaJ9qTBBMEgjE?usp=sharing)
 
 
 
 ## Captcha Reader + Web Scraper (colab Notebook(private))
 
 This project was done by me in colaboration with Ritik Alwani (a collegue from NIT Surat), which though having enough potential is left in mid progress. This project had an aim to automate the scraping for **indian government websites** with just login credentials, output type as input, and the client could get the required outputs through the scraper. This was done to reduce the client efforts for searching through various websites for their current status, which can be sometimes a very tedius job.
-[Notebook(Private)]:https://github.com/bhavesh2799/Scraper
+
+[Notebook(Private)](https://github.com/bhavesh2799/Scraper)
+
+
 ![Image Output Proof](https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/123.PNG)
 
 ## Attendance Application (Mobile Application: Published on Client Play store Developer Account, Web app published on Firebase)
@@ -97,8 +100,9 @@ Web App: [https://legully-attendance.web.app/](https://legully-attendance.web.ap
 This application is published on the FIRMSAP developer account as Legully Expenses App, and is majorly an application to manage the user's expense documents.  This was a freelancer project, and was a great experience for me, and it involves the use of Google sheets API, the oauth 2.0 consent screen, and filtering and sorting data based on tags. 
 
 [Play Store Link](https://play.google.com/store/apps/details?id=com.expenses.aarc)
-[Web App Url](https://legully-expense-app.web.app/)
-[New URL (APK)](https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing)
+
+Web App Url: [https://legully-expense-app.web.app/](https://legully-expense-app.web.app/)
+New URL (APK): [Download the App here](https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing)
 
 
 
@@ -126,7 +130,7 @@ Equestock is a sentiment analyzer to save you time when reviewing stocks. Articl
 [New Android URL](https://drive.google.com/file/d/1LGEuBZbnNjTD1GkuMFo6_dk9R7c4dzpP/view?usp=sharing)
 
 
-[Web Application](https://equestock.web.app) https://simply-earn-164da.web.app
+[Web Application](https://equestock.web.app)
 
 
 ## Firechat ( Mobile Application)
@@ -137,7 +141,9 @@ The application was left in between, so the apk is not available.
 
 ## QRBLE (Mobile Application)
 QRBLE is a QR Code Scanner with BLE sharing options to share the scanned QR Code Output to BLE Enabled Devices.
+
 [New URL(APK)](https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing)
+
 [GitHub Repository](https://github.com/bhavesh2799/QRBLE)
 
 ## Virtual Try-On (Colab Notebook: Python)
