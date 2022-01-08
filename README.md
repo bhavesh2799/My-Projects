@@ -31,8 +31,6 @@ Firebase, Sendinblue, Google API Console, Android Studio, Postman, Visual Studio
 Deep Learning Specialization: https://github.com/bhavesh2799/Deep-Learning-Specialization-Certificates
 
 Postman Student Expert Certification: https://github.com/bhavesh2799/Postman-Student-Expert-Certification/blob/main/Postman%20-%20Postman%20Student%20Expert%20-%202022-01-04.png
-
-Freelancer Reviews: https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWANI/master/freelancer-reviews.PNG
 # 
 #
 
