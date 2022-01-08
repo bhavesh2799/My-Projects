@@ -1,55 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bhavesh2799/My-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhavesh2799/My-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-
+## Welcome to My Portfolio 
 
 # Contact Details
 
-[tel](+917414002424)
+tel: [7414002424](tel:+917414002424)
 
-[mail](bhaveshkotwani1999@gmail.com)
+mail: [bhaveshkotwani1999@gmail.com](mailto:bhaveshkotwani1999@gmail.com)
 
 # Resume/CV
-[Link](https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWANI/master/Resume.pdf)
+Resume Link: [Download Resume here](https://raw.githubusercontent.com/bhavesh2799/BHAVESH-KOTWANI/master/Resume.pdf)
 
 # Experience Certficate
-[Link](https://github.com/bhavesh2799/BHAVESH-KOTWANI/raw/master/Certificate-Bhavesh%20Kotwani.pdf)
+Experience Certificate: [Download Experience Certificate here](https://github.com/bhavesh2799/BHAVESH-KOTWANI/raw/master/Certificate-Bhavesh%20Kotwani.pdf)
 
 # Skills
 
@@ -73,15 +34,10 @@ Firebase, Sendinblue, Google API Console, Android Studio, Postman, Visual Studio
 
 ## Invoices Parser App (Web App published on Firebase)
 Invoices Parser is a web application I am currently working on, which uses Google Cloud Document AI Processor for Invoices Parsing, and the parsed information gets stored in Firebase Cloud, and the outputs can be exported to google sheets, which is integrated through the sheet API. The app has 3 user roles, superadmin, admin and employees.
-
-
 This application has accounting firms as their primary customers and invoices can be allotted to employees from the admin. The app has a separate superadmin panel to keep check on usage.
-
-
 The application is currently in MVP Phase, and a lot of new features are supposed to be added. The funding is under Mudit Goyal, CEO of FIRMSAP VENTURES, and the sole development is under my control.
 
-
-[Web App]: https://invoices-parser.web.app/
+Web App: [https://invoices-parser.web.app/](https://invoices-parser.web.app/)
 
 
 
@@ -89,22 +45,22 @@ The application is currently in MVP Phase, and a lot of new features are suppose
 
 LegalAstro is an android news application for news articles, circulars, notices, etc., for accountants, professionals, businessmen and people in Legal businesses to stay updated with the latest government updates. I was/am responsible for the development for the application, and the articles are published from the web app (also developed by me). The editors, which currently are the employees in FIRMSAP VENTURES PVT LTD, are responsible for the articles being published in the app.
 
-[App Link]: https://play.google.com/store/apps/details?id=com.legully.genienews
+App Link: [https://play.google.com/store/apps/details?id=com.legully.genienews](https://play.google.com/store/apps/details?id=com.legully.genienews)
 
 
-[Web App Publisher]: https://legully-news-genie.web.app/
+Web App Publisher: [https://legully-news-genie.web.app/](https://legully-news-genie.web.app/)
 
 ## Document Parser(Google Vision API)
 This project is a short yet effective PDF parsing implementation in python. The end result is the text extracted from PDFs.
 
- [URL]: https://colab.research.google.com/drive/16iOWroDj4ZXgxeh0qn1WIzoIQbXEZ8zE?usp=sharing
+ URL: [Colab Notebook Link](https://colab.research.google.com/drive/16iOWroDj4ZXgxeh0qn1WIzoIQbXEZ8zE?usp=sharing)
 
 
 ## Meri Samruddhi(Web App: Firebase Published)
 This project iincludes a form created in Hindi using the postal service API, and the google Translation API for the farmers located in Maharashtra to collect their field data and personal information, and deliver sample fertilizers to them. The data collected from farmers is collected in firebase server, and can be updated by admin on a google sheet. This later is connected with a challan printing script I created in Python for getting the delivery challans(The Web App has a mobile view by default, since the target audience is farmers).
 
 
-[WEB APP URL]: https://meri-samruddhi.web.app
+WEB APP URL: [https://meri-samruddhi.web.app](https://meri-samruddhi.web.app)
 
 
 
@@ -124,13 +80,13 @@ This project was done by me in colaboration with Ritik Alwani (a collegue from N
 This application is published on the FIRMSAP developer account as Legully Attendance, and is majorly an application to manage the company's attendance.  This app has three roles: superadmin, admin and employee, with two logins. The company can manage employees attendance arrival and exit conditions and record their details thereafter. The company can also upload attendance related documents and the employees can upload reimbersements if needed.
 
 
-[https://play.google.com/store/apps/details?id=com.legully.attendance]
+App Link: [https://play.google.com/store/apps/details?id=com.legully.attendance](https://play.google.com/store/apps/details?id=com.legully.attendance)
 
 
-[New URL (APK)]: https://drive.google.com/file/d/1NKXf_u9Mw9fffA-MLef4khnEFz2IuK6J/view?usp=sharing
+New URL (APK): [Alternate Link](https://drive.google.com/file/d/1NKXf_u9Mw9fffA-MLef4khnEFz2IuK6J/view?usp=sharing)
 
 
-[Web app]: https://legully-attendance.web.app/
+Web App: [https://legully-attendance.web.app/](https://legully-attendance.web.app/)
 
 
 
@@ -140,12 +96,9 @@ This application is published on the FIRMSAP developer account as Legully Attend
 
 This application is published on the FIRMSAP developer account as Legully Expenses App, and is majorly an application to manage the user's expense documents.  This was a freelancer project, and was a great experience for me, and it involves the use of Google sheets API, the oauth 2.0 consent screen, and filtering and sorting data based on tags. 
 
-[URL]: https://play.google.com/store/apps/details?id=com.expenses.aarc
-
-[Web App Url]: https://legully-expense-app.web.app/login
-
-
-[New URL (APK)]: https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing
+[Play Store Link](https://play.google.com/store/apps/details?id=com.expenses.aarc)
+[Web App Url](https://legully-expense-app.web.app/)
+[New URL (APK)](https://drive.google.com/file/d/1mDzcp5iBuqqwYWc8BWvc5eEOB2-X0d9H/view?usp=sharing)
 
 
 
@@ -170,48 +123,44 @@ Because of the problem of too much data, financial institutions have employed si
 Equestock is a sentiment analyzer to save you time when reviewing stocks. Articles, technical analysis, and sentiment analysis are all delivered to you through the app.
 
 
-[New Android URL]: https://drive.google.com/file/d/1LGEuBZbnNjTD1GkuMFo6_dk9R7c4dzpP/view?usp=sharing
+[New Android URL](https://drive.google.com/file/d/1LGEuBZbnNjTD1GkuMFo6_dk9R7c4dzpP/view?usp=sharing)
 
 
-[Web Application]: https://equestock.web.app https://simply-earn-164da.web.app
+[Web Application](https://equestock.web.app) https://simply-earn-164da.web.app
 
 
 ## Firechat ( Mobile Application)
 Firechat Chating App for private talks with your partner, family and friends.
 This application is made with intent to store minimum user information, so that they could talk at ease with no worries about privacy policy.
 
-
 The application was left in between, so the apk is not available.
 
 ## QRBLE (Mobile Application)
 QRBLE is a QR Code Scanner with BLE sharing options to share the scanned QR Code Output to BLE Enabled Devices.
-
-
-[New URL(APK)]: https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing
-
-[GitHub Repository]: https://github.com/bhavesh2799/QRBLE
+[New URL(APK)](https://drive.google.com/file/d/1p9slT4Ul2SFl4Md5QyxOoMqz_KRiJ64R/view?usp=sharing)
+[GitHub Repository](https://github.com/bhavesh2799/QRBLE)
 
 ## Virtual Try-On (Colab Notebook: Python)
 A virtual try-on method takes a product image and an image of a model and produces an image of the model wearing the product. Most methods essentially compute warps from the product image to the model image and combine using image generation methods. However, obtaining a realistic image is challenging because the kinematics of garments is complex and because outline, texture, and shading cues in the image reveal errors to human viewers. The garment must have appropriate drapes; texture must be warped to be consistent with the shape of a draped garment; small details (buttons, collars, lapels, pockets, etc.) must be placed appropriately on the garment, and so on. Evaluation is particularly difficult and is usually qualitative.
 
-[URL]: https://github.com/bhavesh2799/virtual-try-on
+URL: [Repository Link](https://github.com/bhavesh2799/virtual-try-on)
 
 ## Sharing App (Sri Lanka Freelancer, Web App: Firebase Deployed)
 This was a file sharing project from Freelancer, which couldn't be completed due to some reasons, and only the UI is available. The application is currently published as a web app on Firebase.
 
-[URL]: https://sharing-f96bf.web.app/home
+URL: [https://sharing-f96bf.web.app/home](https://sharing-f96bf.web.app/home)
 
-[GitHub Repository]: https://github.com/bhavesh2799/Sharing-App--Sri-Lanka--Freelancer-
+[GitHub Repository](https://github.com/bhavesh2799/Sharing-App--Sri-Lanka--Freelancer-)
 
 ## Simple HRNET (Colab Notebook: Python)
 Simple HRNET colab implementation provides with 17 human keypoints.
 
-[URL]: https://github.com/bhavesh2799/simpleHRNET
+URL: [Repository Link](https://github.com/bhavesh2799/simpleHRNET)
 
 ## Simple HRNET TO Openpose (Colab Notebook: Python)
 Convert the 17 keypoint output of simple HRNET to 18 keypoint openpose json format
 
-[URL]: https://github.com/bhavesh2799/simpleHRNET2Openpose
+URL: [Repository Link](https://github.com/bhavesh2799/simpleHRNET2Openpose)
 
 
 ## ocrApp (Mobile Application)
@@ -219,46 +168,44 @@ Image to Text ocrApp for all languages. Included languages are:
 Afrikaans, Arabic, Azerbaijani, Belarusian, Bengali, Bulgarian, Catalan, Czech, Chinese, Traditional Chinese, Cherokee, Danish, German, Greek, English, English (Old), Internet Meme, Esperanto, Esperanto alternative, Math, Estonian, Basque, Finnish, French, Frankish, French (Old), Galician, Ancient Greek, Hebrew, Hindi, Croatian, Hungarian, Indonesian, Icelandic, Italian, Italian (Old), Japanese, Kannada, Korean, Latvian, Lithuanian, Malayalam, Macedonian, Maltese, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovakian, Slovenian, Spanish, Old Spanish, Albanian, Serbian (Latin), Swahili, Swedish, Tamil, Telugu, Tagalog, Thai, Turkish, Ukrainian, Vietnamese.
 The OCR Scan can simply be copied to the clipboard.
 
-[New URL(APK)]: https://drive.google.com/file/d/14-Q8nZiy9_anOndo0NIdI6O6m5SGGOIB/view?usp=sharing
+[New URL(APK)](https://drive.google.com/file/d/14-Q8nZiy9_anOndo0NIdI6O6m5SGGOIB/view?usp=sharing)
 
-[GitHub Repository]: https://github.com/bhavesh2799/ocrAppFull
+[GitHub Repository](https://github.com/bhavesh2799/ocrAppFull)
 
 ## toQR (Mobile Application)
 toQR is a QR generating and scanning tool created to bring in all possible formats of data to be converted into QR codes.
+[New URL(APK)](https://drive.google.com/file/d/1rgHDrvgQG-WKrcy9OHQvy1Ilqd7yMgIN/view?usp=sharing)
 
-[New URL(APK)]:https://drive.google.com/file/d/1rgHDrvgQG-WKrcy9OHQvy1Ilqd7yMgIN/view?usp=sharing
-
-[GitHub Repository]: https://github.com/bhavesh2799/toQR
+[GitHub Repository](https://github.com/bhavesh2799/toQR)
 
 ## NutriCal (Mobile Application)
 NutriCal: Essential Nutritional Calculator carries the nutritional information accurate to 2 decimal points, and the nutritional data is obtained from the US FoodDat central Data USA, which is one of the most reliable nutritive food information sources.
 
+[New URL(APK)](https://drive.google.com/file/d/1p4WihI0vZLkfhyZ0OZrBrJocnJi1nV7z/view?usp=sharing)
 
-[New URL(APK)]: https://drive.google.com/file/d/1p4WihI0vZLkfhyZ0OZrBrJocnJi1nV7z/view?usp=sharing
+[GitHub Repository](https://github.com/bhavesh2799/NutriCal)
 
-[GitHub Repository]: https://github.com/bhavesh2799/NutriCal
-
-[Python notebook used in nutrical data preprocessing]: https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/CalCalc%20or%20NutriCal.ipynb
+[Python notebook used in nutrical data preprocessing](https://github.com/bhavesh2799/BHAVESH-KOTWANI/blob/master/CalCalc%20or%20NutriCal.ipynb)
 
 
 
 ## Human Segmentation (Colab Notebook: Python)
 Using transfer learning to implement human segmentation
 
-[URL]: https://github.com/bhavesh2799/human-segmentation
+URL: [Repository Link](https://github.com/bhavesh2799/human-segmentation)
 
 ## Website Template (Angular, HTML5, Bootstrap)
 A beautiful website ftemplate developed with angular, js, html, css and bootstrap.
 
-[URL]: https://github.com/bhavesh2799/SimplyEarn
+URL: [Repository Link](https://github.com/bhavesh2799/SimplyEarn)
 
 ## Web Calculator (Website)
 
-[URL]: https://github.com/bhavesh2799/Calculator
+URL: [Repository Link](https://github.com/bhavesh2799/Calculator)
 
 ## Exploratory Data Analysis (Colab Notebook: Python)
-[URL]: https://github.com/bhavesh2799/EDA_BASED_WEBSITE
+URL: [Repository Link](https://github.com/bhavesh2799/EDA_BASED_WEBSITE)
 
 ## Plant Pathology (Kaggle Competition: Python)
-[URL]: https://github.com/bhavesh2799/Plant-Pathology
+URL: [Repository Link](https://github.com/bhavesh2799/Plant-Pathology)
 
